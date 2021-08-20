@@ -8,10 +8,13 @@
 Me chamo Thalita Neves, sou baiana e vivo em São Paulo há algum tempo...  
 
 - 👩‍🎓 Sou estudante de Desenvolvimento Front-End - <Laboratória>
-- 
 - 🌿 Amo cuidar das plantinhas
 - 🏃‍♀️ Fazer esportes ao ar livre 
 - 🐈 Mimar minhas gatinhas 🐈
+
+## Midias Sociais
+
+[![Linkedin Badge](https://ik.imagekit.io/ThalitaNeves95/1727490_linkedin_social_media_job_network_icon__1__Knc8VtbaPKZ.png?updatedAt=1629484335567=https://www.linkedin.com/in/thalitanevesdesouza/)](https://www.linkedin.com/in/thalitanevesdesouza/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:thalita.neves24@gmail.com)
 
 
 
