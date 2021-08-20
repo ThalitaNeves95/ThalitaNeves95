@@ -3,7 +3,7 @@
 - [LinkedIn](https://www.linkedin.com/in/thalitanevesdesouza/)
 
 <!--
-**ThalitaNeves95/ThalitaNeves95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ThalitaNeves95/ThalitaNeves95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Me chamo Thalita Neves, sou baiana e vivo em São Paulo há algum tempo...
 
