@@ -11,3 +11,5 @@ Me chamo Thalita Neves, sou baiana e vivo em São Paulo há algum tempo... Sempr
 - 🌿 Amo cuidar das plantinhas
 - 🏃‍♀️ Fazer esportes ao ar livre 
 - 🐈 Mimar minhas gatinhas 🐈
+
+![Thalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalitaNeves95&count_private=true)
