@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Me chamo Thalita Neves, sou baiana e vivo em São Paulo há algum tempo... Trabalhei ao longo da vida com atendimento ao público em bares/restaurantes e eventos. Aprendi bastante sobre gerenciamento de conflitos e adaptação a mudanças durante o fluxo de trabalho. No último ano comecei a me interessar pela área de TI, por influência de amigos e minha esposa, conheci a Laboratória e comecei a estudar para fazer o processo seletivo, me apaixonei pelo conteúdo e decidi me dedicar. 
+Me chamo Thalita Neves, sou baiana e vivo em São Paulo há 4 anos. Trabalhei ao longo da vida com atendimento ao público em bares/restaurantes e eventos. Aprendi bastante sobre gerenciamento de conflitos e adaptação a mudanças durante o fluxo de trabalho. No último ano comecei a me interessar pela área de TI, por influência de amigos e minha esposa, conheci a Laboratória e comecei a estudar para fazer o processo seletivo, me apaixonei pelo conteúdo e decidi me dedicar. 
 
 
 
