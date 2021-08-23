@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Sou estudante de Desenvolvimento Front-End - <Laboratória>
 - 🌿 Amo cuidar das plantinhas
-- 🏃‍♀️ Fazer esportes ao ar livre 
+- 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogam badminton 
 - 🐈 Mimar minhas gatinhas 🐈
 
 
