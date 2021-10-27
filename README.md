@@ -23,8 +23,8 @@ Me chamo Thalita Neves, sou baiana e vivo em São Paulo há 4 anos. Trabalhei ao
 ![HTML](https://ik.imagekit.io/ThalitaNeves95/html_-Agtkrj-0.png?updatedAt=1629486797625)
 ![CSS](https://ik.imagekit.io/ThalitaNeves95/css_1jHkLSNX6.png?updatedAt=1629486797935)
 ![JavaScript](https://ik.imagekit.io/ThalitaNeves95/js_eUSE75APNJp3.png?updatedAt=1629486797451)
-![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 ![React](https://ik.imagekit.io/ThalitaNeves95/react_PNIGht3Vl.png?updatedAt=1629486797445)
+![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 
 
 
