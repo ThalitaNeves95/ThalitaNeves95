@@ -1,6 +1,6 @@
 ### Oi, seja bem-vindo(a) &#127803;
 
-- 👩‍🎓 Sou estudante de Desenvolvimento Front-End - <Laboratória>
+- 👩‍🎓 Desenvolvedora Front-End - <Laboratória>
 - 🌿 Amo cuidar das plantinhas
 - 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogar badminton 
 - 🐈 Mimar minhas gatinhas 🐈
