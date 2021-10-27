@@ -9,8 +9,10 @@
 
 ## Sobre
 
-Me chamo Thalita Neves, sou baiana e vivo na capital de São Paulo há quatro anos. Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
-Atualmente me encontro em transição de carreira para a área de tecnologia. Todas as minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
+
+Aluna do bootcamp Laboratória 6ª geração, em transição de carreira para a área de tecnologia.
+A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
+Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
 Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
 
 
