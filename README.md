@@ -9,8 +9,9 @@
 
 ## Sobre
 
-Me chamo Thalita Neves, sou baiana e vivo em São Paulo há 4 anos. Trabalhei ao longo da vida com atendimento ao público em bares/restaurantes e eventos. Aprendi bastante sobre gerenciamento de conflitos e adaptação a mudanças durante o fluxo de trabalho. No último ano comecei a me interessar pela área de TI, por influência de amigos e minha esposa, conheci a Laboratória e comecei a estudar para fazer o processo seletivo, me apaixonei pelo conteúdo e decidi me dedicar. 
-
+Me chamo Thalita Neves, sou baiana e vivo na capital de São Paulo há quatro anos. Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
+Atualmente me encontro em transição de carreira para a área de tecnologia. Todas as minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
+Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
 
 
 ## Midias Sociais
