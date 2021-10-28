@@ -1,9 +1,9 @@
 <div align="center">### Oi, seja bem-vindo(a) &#127803;
 
-- 👩‍🎓 Desenvolvedora Front-End
-- 🌿 Amo cuidar das plantinhas
-- 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogar badminton 
-- 🐈 Mimar minhas gatinhas 🐈
+ - 👩‍🎓 Desenvolvedora Front-End
+ - 🌿 Amo cuidar das plantinhas
+ - 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogar badminton 
+ - 🐈 Mimar minhas gatinhas 🐈
 
 </div>
 
