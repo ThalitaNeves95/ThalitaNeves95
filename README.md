@@ -33,7 +33,8 @@ Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou
 
 ## Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaNeves95&layout=compact&theme=dracula)](https://github.com/ThalitaNeves95/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaNeves95&layout=compact&theme=dracula)](https://github.com/ThalitaNeves95/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThalitaNeves95)](https://github.com/ThalitaNeves95/github-readme-stats)
+
 
 
 
