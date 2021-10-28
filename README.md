@@ -1,11 +1,11 @@
-### Oi, seja bem-vindo(a) &#127803;
+<div align="center">### Oi, seja bem-vindo(a) &#127803;
 
 - 👩‍🎓 Desenvolvedora Front-End
 - 🌿 Amo cuidar das plantinhas
 - 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogar badminton 
 - 🐈 Mimar minhas gatinhas 🐈
 
-
+</div>
 
 ## Sobre
 
@@ -28,6 +28,7 @@ Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou
 ![CSS](https://ik.imagekit.io/ThalitaNeves95/css_1jHkLSNX6.png?updatedAt=1629486797935)
 ![JavaScript](https://ik.imagekit.io/ThalitaNeves95/js_eUSE75APNJp3.png?updatedAt=1629486797451)
 ![React](https://ik.imagekit.io/ThalitaNeves95/react_PNIGht3Vl.png?updatedAt=1629486797445)
+![GIT](https://ik.imagekit.io/ThalitaNeves95/2993773_git_social_media_icon_WrITv8xYGWg.png?updatedAt=1635448241866)
 ![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 
 
