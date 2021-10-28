@@ -29,9 +29,9 @@ Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou
 ![JavaScript](https://ik.imagekit.io/ThalitaNeves95/js_eUSE75APNJp3.png?updatedAt=1629486797451)
 ![React](https://ik.imagekit.io/ThalitaNeves95/react_PNIGht3Vl.png?updatedAt=1629486797445)
 ![GIT](https://ik.imagekit.io/ThalitaNeves95/2993773_git_social_media_icon_WrITv8xYGWg.png?updatedAt=1635448241866)
+![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 ![Firebase](https://ik.imagekit.io/ThalitaNeves95/1175544_firebase_google_icon_ujhnVwTsv.png?updatedAt=1635449142901)
 ![PostgreeSQL](https://ik.imagekit.io/ThalitaNeves95/4691328_postgresql_icon_1l5VV9tSP-H.png?updatedAt=1635449142904)
-![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 ![Notion](https://ik.imagekit.io/ThalitaNeves95/7659000_notion_brand_assets_notes_oneline_icon_5joBO40mxuC.png?updatedAt=1635448201320)
 ![Trello](https://ik.imagekit.io/ThalitaNeves95/4375112_logo_trello_icon_N8n7fIy2L.png?updatedAt=1635448132261)
 
