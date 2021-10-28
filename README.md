@@ -18,13 +18,13 @@ Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também 
 Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
 
 
-## Midias Sociais
+## Mídias Sociais
 
 [![Linkedin Badge](https://ik.imagekit.io/ThalitaNeves95/1727490_linkedin_social_media_job_network_icon__2__UgqTD_eje.png?updatedAt=1629484874968=https://www.linkedin.com/in/thalitanevesdesouza/)](https://www.linkedin.com/in/thalitanevesdesouza/)     [![Gmail Badge](https://ik.imagekit.io/ThalitaNeves95/1873613_contact_email_message_letter_media_icon_9tM9UYXvZ.png?updatedAt=1629484622075&link=mailto:thalita.neves24@)](mailto:thalita.neves24@gmail.com)
 
 
 
-## Competencias Técnicas
+## Competências Técnicas
 ![HTML](https://ik.imagekit.io/ThalitaNeves95/html_-Agtkrj-0.png?updatedAt=1629486797625)
 ![CSS](https://ik.imagekit.io/ThalitaNeves95/css_1jHkLSNX6.png?updatedAt=1629486797935)
 ![JavaScript](https://ik.imagekit.io/ThalitaNeves95/js_eUSE75APNJp3.png?updatedAt=1629486797451)
