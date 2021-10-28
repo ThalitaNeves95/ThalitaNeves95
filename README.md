@@ -10,7 +10,7 @@
 ## Sobre
 
 
-Formada pelo bootcamp da Laboratória, na 6ª geração, e em transição de carreira para a área de tecnologia.
+Graduada da 6ª geração do bootcamp da Laboratória, em transição de carreira para a área de tecnologia.
 A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
 Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
 Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
