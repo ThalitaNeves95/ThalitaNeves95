@@ -1,6 +1,6 @@
 ### Oi, seja bem-vindo(a) &#127803;
 
-- 👩‍🎓 Desenvolvedora Front-End - <Laboratória>
+- 👩‍🎓 Desenvolvedora Front-End
 - 🌿 Amo cuidar das plantinhas
 - 🏃‍♀️ Apaixonada por esportes - correr, pedalar e jogar badminton 
 - 🐈 Mimar minhas gatinhas 🐈
@@ -10,7 +10,7 @@
 ## Sobre
 
 
-Aluna do bootcamp Laboratória 6ª geração, em transição de carreira para a área de tecnologia.
+Formada pelo bootcamp da Laboratória 6ª geração e em transição de carreira para a área de tecnologia.
 A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
 Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
 Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
