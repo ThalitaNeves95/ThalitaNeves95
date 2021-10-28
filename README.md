@@ -33,7 +33,8 @@ Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou
 
 ## Github
 
-[![Top Langs](https://github.com/ThalitaNeves95) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSnow95&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaNeves95&layout=compact)](https://github.com/ThalitaNeves95/github-readme-stats)
+
 
 
 
