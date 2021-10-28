@@ -6,9 +6,11 @@
  - 🐈 Mimar minhas gatinhas 🐈
 
 
-![GitHub](https://ik.imagekit.io/ThalitaNeves95/394189_code_github_repository_icon__1__L_bXzgpcn.png?updatedAt=1635448220394)
+<div align="center">
+  <img align="center" src="https://ik.imagekit.io/ThalitaNeves95/394189_code_github_repository_icon__1__L_bXzgpcn.png?updatedAt=1635448220394">
+</div>
 
-
+ 
 ## Sobre
 
 Em transição de carreira para a área de tecnologia, graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais. 
@@ -38,7 +40,8 @@ Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou
 
 ## Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaNeves95&layout=compact&theme=dracula)](https://github.com/ThalitaNeves95/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaNeves95&layout=compact&theme=dracula)]               (https://github.com/ThalitaNeves95/github-readme-stats) 
+
 
 
 
