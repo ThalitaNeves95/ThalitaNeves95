@@ -2,7 +2,7 @@
 
  - 👩‍🎓 Desenvolvedora Front-End
  - 🌿 Amo cuidar das plantinhas
- - 🏃‍♀️ Apaixonada por esportes - correr, caminha, malhar e pedalar.
+ - 🏃‍♀️ Apaixonada por esportes - correr, caminhar, malhar e pedalar.
  - 🐈 Mimar minhas gatinhas 🐈
 
 
