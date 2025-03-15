@@ -1,9 +1,9 @@
 ### Oi, seja bem-vindo(a) &#127803;
 
- - 👩‍🎓 Desenvolvedora Front-End
- - 🌿 Amo cuidar das plantinhas
- - 🏃‍♀️ Apaixonada por esportes - correr, caminhar, malhar e pedalar.
- - 🐈 Mimar minhas gatinhas 🐈
+ - 👩‍🎓 Quality Assurance - Shell Box
+ - 📕 Cursando desenvolvimento Back-End no SENAI
+ - 🏃‍♀️ Apaixonada por esportes - correr, caminhar, malhar e pedalar
+ - 🐈 Mãe de 6 gatinhas
 
 
 <div align="center">
@@ -13,12 +13,11 @@
  
 ## Sobre
 
-Em transição de carreira para a área de tecnologia, graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais. 
-Sou apaixonada por esportes, costumo correr, pedalar e jogar badminton. Também gosto de ouvir discos e cozinhar.
+Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais. 
 
 A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
-Me encontro aberta a oportunidades, sejam elas em Desenvolvimento Front-End e ou Back-End. Estou sempre aberta ao diálogo e ao aprendizado.
 
+Atualmente trabalho como Quality Assurance na Raízen, especificamente no projeto Shell Box. 
 ## Mídias Sociais
 
 [![Linkedin Badge](https://ik.imagekit.io/ThalitaNeves95/1727490_linkedin_social_media_job_network_icon__2__UgqTD_eje.png?updatedAt=1629484874968=https://www.linkedin.com/in/thalitanevesdesouza/)](https://www.linkedin.com/in/thalitanevesdesouza/)     [![Gmail Badge](https://ik.imagekit.io/ThalitaNeves95/1873613_contact_email_message_letter_media_icon_9tM9UYXvZ.png?updatedAt=1629484622075&link=mailto:thalita.neves24@)](mailto:thalita.neves24@gmail.com)
