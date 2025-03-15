@@ -17,7 +17,10 @@ Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sob
 
 A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
 
-Atualmente trabalho como Quality Assurance na Raízen, especificamente no projeto Shell Box. 
+Atualmente, sou responsável pela área de Quality Assurance na Raízen, atuando diretamente no projeto Shell Box.
+
+Após três anos de experiência em qualidade de software, decidi me aventurar no universo do desenvolvimento back-end. Iniciei um curso presencial no SENAI-SP, com foco na linguagem C#. Durante o curso, teremos a oportunidade de trabalhar em projetos práticos, incluindo o "Projeto Integrador", onde colaboraremos com as turmas de front-end e banco de dados no desenvolvimento de uma ferramenta.
+
 ## Mídias Sociais
 
 [![Linkedin Badge](https://ik.imagekit.io/ThalitaNeves95/1727490_linkedin_social_media_job_network_icon__2__UgqTD_eje.png?updatedAt=1629484874968=https://www.linkedin.com/in/thalitanevesdesouza/)](https://www.linkedin.com/in/thalitanevesdesouza/)     [![Gmail Badge](https://ik.imagekit.io/ThalitaNeves95/1873613_contact_email_message_letter_media_icon_9tM9UYXvZ.png?updatedAt=1629484622075&link=mailto:thalita.neves24@)](mailto:thalita.neves24@gmail.com)
