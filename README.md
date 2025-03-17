@@ -13,11 +13,11 @@
  
 ## Sobre
 
-Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágil, Lógica de Programação e Habilidades Sócio-Emocionais. 
+Graduada da 6º Geração do Bootcamp da <Laboratória Brasil>, onde aprendi sobre Metodologia Ágeis, Lógica de Programação, JavaScript e Habilidades Sócio-Emocionais. 
 
 A maior parte das minhas experiências profissionais foram com atendimento ao público em bares/restaurantes e eventos, onde desenvolvi diversas habilidades, entre elas: boa comunicação com clientes, gestão de equipes e acalmar ânimos em momentos imprevisíveis.
 
-Atualmente, sou responsável pela área de Quality Assurance na Raízen, atuando diretamente no projeto Shell Box.
+Atualmente, trabalho na área de Quality Assurance na Raízen, atuando diretamente no projeto Shell Box.
 
 Após três anos de experiência em qualidade de software, decidi me aventurar no universo do desenvolvimento back-end. Iniciei um curso presencial no SENAI-SP, com foco na linguagem C#. Durante o curso, teremos a oportunidade de trabalhar em projetos práticos, incluindo o "Projeto Integrador", onde colaboraremos com as turmas de front-end e banco de dados no desenvolvimento de uma ferramenta.
 
