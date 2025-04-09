@@ -38,6 +38,7 @@ Após três anos de experiência em qualidade de software, decidi me aventurar n
 ![PostgreeSQL](https://ik.imagekit.io/ThalitaNeves95/4691328_postgresql_icon_1l5VV9tSP-H.png?updatedAt=1635449142904)
 ![Notion](https://ik.imagekit.io/ThalitaNeves95/7659000_notion_brand_assets_notes_oneline_icon_5joBO40mxuC.png?updatedAt=1635448201320)
 ![Trello](https://ik.imagekit.io/ThalitaNeves95/4375112_logo_trello_icon_N8n7fIy2L.png?updatedAt=1635448132261)
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
 
 
 
