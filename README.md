@@ -28,7 +28,7 @@ Após três anos de experiência em qualidade de software, decidi me aventurar n
 
 ## Competências Técnicas
 
-<img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/><img width="96" height="96" src="https://img.icons8.com/color/96/c-sharp-logo.png" alt="c-sharp-logo"/><img width="96" height="96" src="https://img.icons8.com/windows/96/nodejs.png" alt="nodejs"/><img width="96" height="96" src="https://img.icons8.com/color/96/git.png" alt="git"/><img width="96" height="96" src="https://img.icons8.com/material-rounded/96/firebase.png" alt="firebase"/><img width="96" height="96" src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql-logo"/><img width="96" height="96" src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+<img width="96" height="96" src="https://img.icons8.com/color/96/c-sharp-logo.png" alt="c-sharp-logo"/><img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/><img width="96" height="96" src="https://img.icons8.com/windows/96/nodejs.png" alt="nodejs"/><img width="96" height="96" src="https://img.icons8.com/color/96/git.png" alt="git"/><img width="96" height="96" src="https://img.icons8.com/material-rounded/96/firebase.png" alt="firebase"/><img width="96" height="96" src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql-logo"/><img width="96" height="96" src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="microsoft-sql-server"/>
 
 
 
