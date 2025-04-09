@@ -33,7 +33,7 @@ Após três anos de experiência em qualidade de software, decidi me aventurar n
 ![JavaScript](https://ik.imagekit.io/ThalitaNeves95/js_eUSE75APNJp3.png?updatedAt=1629486797451)
 ![React](https://ik.imagekit.io/ThalitaNeves95/react_PNIGht3Vl.png?updatedAt=1629486797445)
 ![GIT](https://ik.imagekit.io/ThalitaNeves95/2993773_git_social_media_icon_WrITv8xYGWg.png?updatedAt=1635448241866)
-![Csharp](https://img.icons8.com/plasticine/100/c-sharp-logo.png)
+https://icons8.com.br/icon/55251/c-sharp-logo
 ![Node](https://ik.imagekit.io/ThalitaNeves95/node_t-OsiZgdI.png?updatedAt=1629486797453)
 ![Firebase](https://ik.imagekit.io/ThalitaNeves95/1175544_firebase_google_icon_ujhnVwTsv.png?updatedAt=1635449142901)
 ![PostgreeSQL](https://ik.imagekit.io/ThalitaNeves95/4691328_postgresql_icon_1l5VV9tSP-H.png?updatedAt=1635449142904)
